@@ -1,0 +1,187 @@
+.parallax-completo{
+     background-image: url(../img/fondo1.jpg) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+}
+.parallax-completo2{
+   
+     background-image: url(../img/fondo2.jpg) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+}
+
+.parallax-completo3{
+   
+     background-Color: white;
+     background-position: 50% 50%;
+     background-size: cover;
+    
+     background-repeat: no-repeat;
+     display: flex;
+}
+
+.parallax-completo4{
+     
+     background-image: url(../img/fondo2.jpg) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+}
+.parallax-completo5{
+     background-color: white;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+    
+    
+}
+
+div .p1{
+     display: flex;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-image: url(../img/p1.jpg) ;
+}
+
+div .p2{
+     display: flex;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-image: url(../img/p2.jpg) ;
+}
+
+
+div .p3{
+     display: flex;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-image: url(../img/p3.jpg) ;
+}
+
+div .p4{
+     display: flex;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-image: url(../img/p4.jpg) ;
+}
+
+div .p5{
+     display: flex;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-image: url(../img/p5.jpg) ;
+}
+
+div .p6{
+     display: flex;
+     background-position: 50% 50%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-image: url(../img/p6.jpg) ;
+}
+
+div .p7{
+     display: flex;
+     background-position: 50% 50%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-image: url(../img/p7.jpg) ;
+}
+
+div .p8{
+     display: flex;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-image: url(../img/p8.jpg) ;
+}
+
+div .p9{
+     display: flex;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-image: url(../img/p9.jpg) ;
+}
+
+
+/* Clients */
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards .card{
+    background: #fdfd96;
+    display: flex;
+    width: 46%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+}
+
+.cards .card img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    display: block;
+}
+
+.cards .card > .contenido-texto-card{
+    width: 60%;
+    color: Black;
+}
+
+.cards .card > .contenido-texto-card p{
+    font-weight: 300;
+    padding-top: 5px;
+}
+/* Clients */
+
+.cards1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards1 .card1{
+    background: #fdfd96;
+    display: flex;
+    width: 30%;
+    height: 400px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 1px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+}
+
+.cards1 .card1 img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    display: block;
+}
+
+.cards1 .card1 > .contenido-texto-card{
+    width: 60%;
+    color: #fff;
+}
+
+.cards1 .card1 > .contenido-texto-card p{
+    font-weight: 300;
+    padding-top: 5px;
+}
